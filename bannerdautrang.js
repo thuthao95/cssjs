@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/lz5CG7' target='_blank'><img src='https://3.bp.blogspot.com/-LCzBjx6tURA/WP3u1KoewzI/AAAAAAAAAlY/fLnmspy43kAY3Ct0AKCoZn6YFc6bBNz2ACLcB/s640/mua-hang-online.jpg' width='500px'/><br/>Giá rẻ - ưu đãi dành cho mọi văn phòng</a>. Giao hàng nhanh chóng - tận nhà. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/lz5CG7' target='_blank'><img src='https://3.bp.blogspot.com/-LCzBjx6tURA/WP3u1KoewzI/AAAAAAAAAlY/fLnmspy43kAY3Ct0AKCoZn6YFc6bBNz2ACLcB/s640/mua-hang-online.jpg' width='500px'/><br/> văn phòng phẩm tại TPHCM</a>.Liên hệ 0168.629.5661. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
